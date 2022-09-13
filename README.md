@@ -9,3 +9,19 @@
 4. 다각형 회전하기/멈추기: r
 5. 다각형 지우기: c
 6. 프로그램 종료하기: f
+
+## HW2_modelingTransformation
+
+2차원 기하 변환
+
+## HW3_projection_shading_light
+
+* NVIDIA “Amazon Lumberyard Bistro” (https://developer.nvidia.com/orca/amazon-lumberyard-bistro) 배경사용  
+* HW3: 물체 및 카메라 배치&이동  
+* HW5: 조명과 쉐이더
+
+! Data, Scene, Shaders 폴더는 로컬에만 존재 (크기 제한)
+
+## TODO
+* 샘플 이미지 추가
+* 조작법 추가
